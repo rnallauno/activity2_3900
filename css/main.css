@@ -1,0 +1,52 @@
+#heading{
+    text-align: center;
+}
+
+.intro {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 35px;
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+.biryani-picture {
+    display: block;
+    max-width: 250px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
+
+.mainDiv{
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+.my-picture {
+    display: block;
+    max-width: 400px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
+body {
+    background-color:  #56a4b8;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    ;
+}
+
+.footnote {
+    text-align: right;
+    font-size: 10px;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+
