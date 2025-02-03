@@ -1,5 +1,9 @@
-#heading{
+#heading {
     text-align: center;
+}
+
+a {
+    color: gold;
 }
 
 .intro {
@@ -13,13 +17,13 @@
 
 .biryani-picture {
     display: block;
-    max-width: 250px;
+    max-width: 400px;
     margin: 0 auto 30px;
     border-radius: 5px;
 }
 
 .mainDiv{
-    text-align: center;
+    text-align: center ;
     max-width: 900px;
     margin: 0 auto;
     padding: 0 5%;
